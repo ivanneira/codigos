@@ -38,6 +38,19 @@
 </div>
 
 
+<div class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <p>Espere un momento mientras cargan los datos...</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
 </body>
 
 <script src="js/bootstrap.min.js"></script>
@@ -51,53 +64,63 @@
 
 <script>
 
-    var data = DATA.RECORDS;
+    $(".modal").modal('show');
 
-    $(document).keypress(function(e) {
-        if(e.which == 13) {
+    $(function(){
 
-            $("#buscar")
-                .click();
-        }
-    });
+        $(".modal").modal('hide');
 
-    $("#buscar").click(function(){
+        var data = DATA.RECORDS;
 
+        $(document).keypress(function(e) {
+            if(e.which == 13) {
 
-        if( $("#busqueda").val().length < 2){
-
-            alert("por favor ingrese mas de 3 caracteres")
-        }else{
-
-            var htmlString =
-                '<tr>' +
-                '   <th>Código</th>' +
-                '   <th>Descripción</th>' +
-                '</tr>';
-
-            for(var index in data){
-
-                if(
-                    data[index].id10.search(new RegExp($('#busqueda').val(), "i")) != -1
-                    ||
-                    data[index].dec10.search(new RegExp($('#busqueda').val(), "i")) != -1
-                ){
-
-                    htmlString +=
-                        '<tr>' +
-                        '   <td><b>' + data[index].id10 + '</b></td>' +
-                        '   <td>' + data[index].dec10 + '</td>' +
-                        '</tr>';
-
-                    $("#tbody")
-                        .empty()
-                        .append(htmlString);
-                }
+                $("#buscar")
+                    .click();
             }
-        }
+        });
+
+        $("#buscar").click(function(){
+
+            $(".modal").modal('show');
+
+            if( $("#busqueda").val().length < 2){
+
+                alert("por favor ingrese mas de 3 caracteres")
+            }else{
+
+                var htmlString =
+                    '<tr>' +
+                    '   <th>Código</th>' +
+                    '   <th>Descripción</th>' +
+                    '</tr>';
+
+                for(var index in data){
+
+                    if(
+                        data[index].id10.search(new RegExp($('#busqueda').val(), "i")) != -1
+                        ||
+                        data[index].dec10.search(new RegExp($('#busqueda').val(), "i")) != -1
+                    ){
+
+                        htmlString +=
+                            '<tr>' +
+                            '   <td><b>' + data[index].id10 + '</b></td>' +
+                            '   <td>' + data[index].dec10 + '</td>' +
+                            '</tr>';
+
+                        $("#tbody")
+                            .empty()
+                            .append(htmlString);
+                    }
+                }
+
+                $(".modal").modal('hide');
+            }
+        });
+
+
     });
-
-
 
 
 </script>
