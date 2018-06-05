@@ -23,7 +23,6 @@
     <script>
         $(".modal").modal('show');
     </script>
-
 </head>
 <body>
 
