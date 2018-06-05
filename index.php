@@ -40,7 +40,7 @@
             width: '100%',
             placeholder: "Busque motivo de intervención",
             ajax: {
-                url: '127.0.0.1:3003/getcie10',
+                url: 'localhost:3003/getcie10',
                 type: 'GET',
                 dataType: 'json',
                 data: function (params) {
