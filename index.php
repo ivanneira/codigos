@@ -38,9 +38,7 @@
 
         $(".selectCIE10").select2({
             width: '100%',
-            multiple: true,
             placeholder: "Busque motivo de intervención",
-            //dropdownParent: $("#modal"),
             ajax: {
                 url: '127.0.0.1:3003/getcie10',
                 type: 'GET',
