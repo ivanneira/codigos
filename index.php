@@ -22,49 +22,89 @@
 </head>
 <body>
 
-<select class="selectCIE10">
+
+<div class="container">
+    <label for="exampleInputEmail1">Busque aquí por código CIE10 o descripción:</label>
+    <input type="text" class="form-control" id="busqueda" placeholder="Ingrese búsqueda">
+    <br>
+    <button id="buscar" class="btn btn-primary btn-block">Buscar</button>
+    <br>
+    <table class="table table-striped table-hover text-center">
+        <tbody id="tbody">
+
+        </tbody>
+    </table>
+
+</div>
+
 
 </body>
 
 <script src="js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+<script src="js/cie10.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+
+
 </html>
 
 
 <script>
 
-    $(function () {
+    var data = DATA.RECORDS;
 
-        $(".selectCIE10").select2({
-            width: '100%',
-            placeholder: "Busque motivo de intervención",
-            ajax: {
-                url: 'localhost:3003/getcie10',
-                type: 'GET',
-                dataType: 'json',
-                data: function (params) {
-                    var query = {
-                        q: params.term
-                    };
+    $(document).keypress(function(e) {
+        if(e.which == 13) {
 
-                    // Query parameters will be ?1=[term]
-                    return query;
-                },
-                processResults: function (data) {
-                    return {
-                        results: $.map(data, function (item) {
-                            return {
-                                text: item.id10 + " - " + item.dec10,
-                                id: item.id10
-                            }
-                        })
-                    };
+            $("#buscar")
+                .click();
+        }
+    });
+
+    $("#buscar").click(function(){
+
+
+        if( $("#busqueda").val().length < 2){
+
+            alert("por favor ingrese mas de 3 caracteres")
+        }else{
+
+            var htmlString =
+                '<tr>' +
+                '   <th>Código</th>' +
+                '   <th>Descripción</th>' +
+                '</tr>';
+
+            for(var index in data){
+
+                if(
+                    data[index].id10.search(new RegExp($('#busqueda').val(), "i")) != -1
+                    ||
+                    data[index].dec10.search(new RegExp($('#busqueda').val(), "i")) != -1
+                ){
+
+                    htmlString +=
+                        '<tr>' +
+                        '   <td><b>' + data[index].id10 + '</b></td>' +
+                        '   <td>' + data[index].dec10 + '</td>' +
+                        '</tr>';
+
+                    $("#tbody")
+                        .empty()
+                        .append(htmlString);
                 }
             }
-        });
-
+        }
     });
 
 
+
+
 </script>
+
+<style>
+
+    body{
+        background-color: #03e2ff;
+    }
+</style>
