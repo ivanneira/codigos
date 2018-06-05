@@ -19,6 +19,11 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+        $(".modal").modal('show');
+    </script>
+
 </head>
 <body>
 
@@ -53,8 +58,6 @@
 
 </body>
 
-<script src="js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
 <script src="js/cie10.js"></script>
 
 
@@ -63,8 +66,6 @@
 
 
 <script>
-
-    $(".modal").modal('show');
 
     $(function(){
 
