@@ -276,7 +276,7 @@ var DATA =
 },
 {
 "id10":"A15",
-"dec10":"Tuberculosis respiratoria, confirmada bacteriol?gica e histologicamente"
+"dec10":"Tuberculosis respiratoria, confirmada bacteriologica e histologicamente"
 },
 {
 "id10":"A150",
@@ -380,7 +380,7 @@ var DATA =
 },
 {
 "id10":"A18",
-"dec10":"Tuberculosis de otros ?rganos"
+"dec10":"Tuberculosis de otros organos"
 },
 {
 "id10":"A180",
@@ -508,7 +508,7 @@ var DATA =
 },
 {
 "id10":"A22",
-"dec10":"Carbunco (?ntrax)"
+"dec10":"Carbunco (antrax)"
 },
 {
 "id10":"A220",
@@ -640,7 +640,7 @@ var DATA =
 },
 {
 "id10":"A28",
-"dec10":"Otras enfermedades zoon?ticas bacterianas, no clasificadas en otra parte"
+"dec10":"Otras enfermedades zoonoticas bacterianas, no clasificadas en otra parte"
 },
 {
 "id10":"A280",
@@ -648,7 +648,7 @@ var DATA =
 },
 {
 "id10":"A281",
-"dec10":"Enfermedad por rasgu?o de gato"
+"dec10":"Enfermedad por rasguño de gato"
 },
 {
 "id10":"A282",
@@ -808,7 +808,7 @@ var DATA =
 },
 {
 "id10":"A39",
-"dec10":"Infecci?n meningoc?cica"
+"dec10":"Infeccion meningococica"
 },
 {
 "id10":"A390",
@@ -844,7 +844,7 @@ var DATA =
 },
 {
 "id10":"A40",
-"dec10":"Septicemia estreptoc?cica"
+"dec10":"Septicemia estreptococica"
 },
 {
 "id10":"A400",
@@ -1000,7 +1000,7 @@ var DATA =
 },
 {
 "id10":"A484",
-"dec10":"Fiebre purpurica brasile?a"
+"dec10":"Fiebre purpurica brasileña"
 },
 {
 "id10":"A488",
@@ -1008,7 +1008,7 @@ var DATA =
 },
 {
 "id10":"A49",
-"dec10":"Infecci?n bacteriana de sitio no especificado"
+"dec10":"Infeccion bacteriana de sitio no especificado"
 },
 {
 "id10":"A490",
@@ -1100,7 +1100,7 @@ var DATA =
 },
 {
 "id10":"A52",
-"dec10":"S?filis tard?a"
+"dec10":"Sifilis tardia"
 },
 {
 "id10":"A520",
@@ -1132,7 +1132,7 @@ var DATA =
 },
 {
 "id10":"A53",
-"dec10":"Otras s?filis y las no especificadas"
+"dec10":"Otras sifilis y las no especificadas"
 },
 {
 "id10":"A530",
@@ -1144,7 +1144,7 @@ var DATA =
 },
 {
 "id10":"A54",
-"dec10":"Infecci?n gonoc?cica"
+"dec10":"Infeccion gonococica"
 },
 {
 "id10":"A540",
@@ -1188,7 +1188,7 @@ var DATA =
 },
 {
 "id10":"A56",
-"dec10":"Otras enfermedades de transmisi?n sexual debidas a clamidias"
+"dec10":"Otras enfermedades de transmision sexual debidas a clamidias"
 },
 {
 "id10":"A560",
@@ -1240,7 +1240,7 @@ var DATA =
 },
 {
 "id10":"A60",
-"dec10":"Infecci?n anogenital debida a virus del herpes (herpes simple)"
+"dec10":"Infeccion anogenital debida a virus del herpes (herpes simple)"
 },
 {
 "id10":"A600",
@@ -1732,7 +1732,7 @@ var DATA =
 },
 {
 "id10":"A93",
-"dec10":"Otras fiebres virales transmitidas por artr?podos, no clasificadas en otra parte"
+"dec10":"Otras fiebres virales transmitidas por artropodos, no clasificadas en otra parte"
 },
 {
 "id10":"A930",
@@ -1772,7 +1772,7 @@ var DATA =
 },
 {
 "id10":"A96",
-"dec10":"Fiebre hemorr?gica por arenavirus"
+"dec10":"Fiebre hemorragica por arenavirus"
 },
 {
 "id10":"A960",
@@ -1796,7 +1796,7 @@ var DATA =
 },
 {
 "id10":"A98",
-"dec10":"Otras fiebres virales hemorr?gicas, no clasificadas en otra parte"
+"dec10":"Otras fiebres virales hemorragicas, no clasificadas en otra parte"
 },
 {
 "id10":"A980",
@@ -1832,7 +1832,7 @@ var DATA =
 },
 {
 "id10":"B00",
-"dec10":"Infecciones herp?tica [herpes simple]"
+"dec10":"Infecciones herpetica [herpes simple]"
 },
 {
 "id10":"B000",
@@ -1936,7 +1936,7 @@ var DATA =
 },
 {
 "id10":"B05",
-"dec10":"Sarampi?n"
+"dec10":"Sarampion"
 },
 {
 "id10":"B050",
@@ -1968,7 +1968,7 @@ var DATA =
 },
 {
 "id10":"B06",
-"dec10":"Rub?ola [sarampi?n alem?n]"
+"dec10":"Rubeola [sarampion aleman]"
 },
 {
 "id10":"B060",
@@ -1988,7 +1988,7 @@ var DATA =
 },
 {
 "id10":"B08",
-"dec10":"Otras infeciones v?ricas caracterizadas por lesiones de la piel y de l"
+"dec10":"Otras infeciones varicas caracterizadas por lesiones de la piel y de l"
 },
 {
 "id10":"B080",
@@ -2076,7 +2076,7 @@ var DATA =
 },
 {
 "id10":"B18",
-"dec10":"Hepatitis viral cr?nica"
+"dec10":"Hepatitis viral cronica"
 },
 {
 "id10":"B180",
@@ -2100,7 +2100,7 @@ var DATA =
 },
 {
 "id10":"B19",
-"dec10":"Hepatitis viral, sin otra especificaci?n"
+"dec10":"Hepatitis viral, sin otra especificacion"
 },
 {
 "id10":"B190",
@@ -2232,7 +2232,7 @@ var DATA =
 },
 {
 "id10":"B25",
-"dec10":"Enfermedad debida a virus citomeg?lico"
+"dec10":"Enfermedad debida a virus citomegolico"
 },
 {
 "id10":"B250",
@@ -2356,7 +2356,7 @@ var DATA =
 },
 {
 "id10":"B34",
-"dec10":"Infecci?n viral de sitio no especificado"
+"dec10":"Infeccion viral de sitio no especificado"
 },
 {
 "id10":"B340",
@@ -2392,31 +2392,31 @@ var DATA =
 },
 {
 "id10":"B350",
-"dec10":"Ti?a de la barba y del cuero cabelludo"
+"dec10":"Tiña de la barba y del cuero cabelludo"
 },
 {
 "id10":"B351",
-"dec10":"Ti?a de las u?as"
+"dec10":"Tiña de las uñas"
 },
 {
 "id10":"B352",
-"dec10":"Ti?a de la mano"
+"dec10":"Tiña de la mano"
 },
 {
 "id10":"B353",
-"dec10":"Ti?a del pie [tinea pedis]"
+"dec10":"Tiña del pie [tinea pedis]"
 },
 {
 "id10":"B354",
-"dec10":"Ti?a del cuerpo [tinea corporis]"
+"dec10":"Tiña del cuerpo [tinea corporis]"
 },
 {
 "id10":"B355",
-"dec10":"Ti?a imbricada [tinea imbricata]"
+"dec10":"Tiña imbricada [tinea imbricata]"
 },
 {
 "id10":"B356",
-"dec10":"Ti?a inguinal [tinea cruris]"
+"dec10":"Tiña inguinal [tinea cruris]"
 },
 {
 "id10":"B358",
@@ -2436,7 +2436,7 @@ var DATA =
 },
 {
 "id10":"B361",
-"dec10":"Ti?a negra"
+"dec10":"Tiña negra"
 },
 {
 "id10":"B362",
@@ -2468,7 +2468,7 @@ var DATA =
 },
 {
 "id10":"B372",
-"dec10":"Candidiasis de la piel y de las u?as"
+"dec10":"Candidiasis de la piel y de las uñas"
 },
 {
 "id10":"B373",
@@ -2644,7 +2644,7 @@ var DATA =
 },
 {
 "id10":"B43",
-"dec10":"Cromomicosis y absceso feomic?tico"
+"dec10":"Cromomicosis y absceso feomicotico"
 },
 {
 "id10":"B430",
@@ -2864,7 +2864,7 @@ var DATA =
 },
 {
 "id10":"B53",
-"dec10":"Otro paludismo [malaria] confirmado parasitol?gicamente"
+"dec10":"Otro paludismo [malaria] confirmado parasitologicamente"
 },
 {
 "id10":"B530",
@@ -3316,7 +3316,7 @@ var DATA =
 },
 {
 "id10":"B82",
-"dec10":"Parasitosis intestinal, sin otra especificaci?n"
+"dec10":"Parasitosis intestinal, sin otra especificacion"
 },
 {
 "id10":"B820",
@@ -5296,7 +5296,7 @@ var DATA =
 },
 {
 "id10":"C790",
-"dec10":"Tumor maligno secundario del ri?on y de la pelvis renal"
+"dec10":"Tumor maligno secundario del riñon y de la pelvis renal"
 },
 {
 "id10":"C791",
@@ -5368,11 +5368,11 @@ var DATA =
 },
 {
 "id10":"C820",
-"dec10":"Linfoma no hodgkin de celulas peque?as hendidas, folicular"
+"dec10":"Linfoma no hodgkin de celulas pequeñas hendidas, folicular"
 },
 {
 "id10":"C821",
-"dec10":"Linfoma no hodgkin mixto, de peque?as celulas hendidas y de grandes celulas, folicular"
+"dec10":"Linfoma no hodgkin mixto, de pequeñas celulas hendidas y de grandes celulas, folicular"
 },
 {
 "id10":"C822",
@@ -5392,15 +5392,15 @@ var DATA =
 },
 {
 "id10":"C830",
-"dec10":"Linfoma no hodgkin de celulas peque?as (difuso)"
+"dec10":"Linfoma no hodgkin de celulas pequeñas (difuso)"
 },
 {
 "id10":"C831",
-"dec10":"Linfoma no hodgkin de celulas peque?as hendidas (difuso)"
+"dec10":"Linfoma no hodgkin de celulas pequeñas hendidas (difuso)"
 },
 {
 "id10":"C832",
-"dec10":"Linfoma no hodgkin mixto, de celulas peque?as y grandes (difuso)"
+"dec10":"Linfoma no hodgkin mixto, de celulas pequeñas y grandes (difuso)"
 },
 {
 "id10":"C833",
@@ -6512,7 +6512,7 @@ var DATA =
 },
 {
 "id10":"D300",
-"dec10":"Tumor benigno del ri?on"
+"dec10":"Tumor benigno del riñon"
 },
 {
 "id10":"D301",
@@ -6812,7 +6812,7 @@ var DATA =
 },
 {
 "id10":"D410",
-"dec10":"Tumor de comportamiento incierto o desconocido del ri?on"
+"dec10":"Tumor de comportamiento incierto o desconocido del riñon"
 },
 {
 "id10":"D411",
@@ -10596,7 +10596,7 @@ var DATA =
 },
 {
 "id10":"F512",
-"dec10":"Trastorno no organico del ciclo sue?o"
+"dec10":"Trastorno no organico del ciclo sueño"
 },
 {
 "id10":"F513",
@@ -10604,7 +10604,7 @@ var DATA =
 },
 {
 "id10":"F514",
-"dec10":"Terrores del sue?o [terrores nocturnos]"
+"dec10":"Terrores del sueño [terrores nocturnos]"
 },
 {
 "id10":"F515",
@@ -10612,11 +10612,11 @@ var DATA =
 },
 {
 "id10":"F518",
-"dec10":"Otros trastornos no organicos del sue?o"
+"dec10":"Otros trastornos no organicos del sueño"
 },
 {
 "id10":"F519",
-"dec10":"Trastorno no organico del sue?o, no especificado"
+"dec10":"Trastorno no organico del sueño, no especificado"
 },
 {
 "id10":"F52",
@@ -10804,7 +10804,7 @@ var DATA =
 },
 {
 "id10":"F642",
-"dec10":"Trastorno de la identidad de genero en la ni?ez"
+"dec10":"Trastorno de la identidad de genero en la niñez"
 },
 {
 "id10":"F648",
@@ -11088,7 +11088,7 @@ var DATA =
 },
 {
 "id10":"F840",
-"dec10":"Autismo en la ni?ez"
+"dec10":"Autismo en la niñez"
 },
 {
 "id10":"F841",
@@ -11100,7 +11100,7 @@ var DATA =
 },
 {
 "id10":"F843",
-"dec10":"Otro trastorno desintegrativo de la ni?ez"
+"dec10":"Otro trastorno desintegrativo de la niñez"
 },
 {
 "id10":"F844",
@@ -11196,15 +11196,15 @@ var DATA =
 },
 {
 "id10":"F930",
-"dec10":"Trastorno de ansiedad de separacion en la ni?ez"
+"dec10":"Trastorno de ansiedad de separacion en la niñez"
 },
 {
 "id10":"F931",
-"dec10":"Trastorno de ansiedad fobica en la ni?ez"
+"dec10":"Trastorno de ansiedad fobica en la niñez"
 },
 {
 "id10":"F932",
-"dec10":"Trastorno de ansiedad social en la ni?ez"
+"dec10":"Trastorno de ansiedad social en la niñez"
 },
 {
 "id10":"F933",
@@ -11212,11 +11212,11 @@ var DATA =
 },
 {
 "id10":"F938",
-"dec10":"Otros trastornos emocionales en la ni?ez"
+"dec10":"Otros trastornos emocionales en la niñez"
 },
 {
 "id10":"F939",
-"dec10":"Trastorno emocional en la ni?ez, no especificado"
+"dec10":"Trastorno emocional en la niñez, no especificado"
 },
 {
 "id10":"F94",
@@ -11228,19 +11228,19 @@ var DATA =
 },
 {
 "id10":"F941",
-"dec10":"Trastorno de vinculacion reactiva en la ni?ez"
+"dec10":"Trastorno de vinculacion reactiva en la niñez"
 },
 {
 "id10":"F942",
-"dec10":"Trastorno de vinculacion desinhibida en la ni?ez"
+"dec10":"Trastorno de vinculacion desinhibida en la niñez"
 },
 {
 "id10":"F948",
-"dec10":"Otros trastornos del comportamiento social en la ni?ez"
+"dec10":"Otros trastornos del comportamiento social en la niñez"
 },
 {
 "id10":"F949",
-"dec10":"Trastorno del comportamiento social en la ni?ez, no especificado"
+"dec10":"Trastorno del comportamiento social en la niñez, no especificado"
 },
 {
 "id10":"F95",
@@ -11280,11 +11280,11 @@ var DATA =
 },
 {
 "id10":"F982",
-"dec10":"Trastorno de la ingestion alimentaria en la infancia y en la ni?ez"
+"dec10":"Trastorno de la ingestion alimentaria en la infancia y en la niñez"
 },
 {
 "id10":"F983",
-"dec10":"Pica en la infancia y la ni?ez"
+"dec10":"Pica en la infancia y la niñez"
 },
 {
 "id10":"F984",
@@ -11300,11 +11300,11 @@ var DATA =
 },
 {
 "id10":"F988",
-"dec10":"Otros trastornos emocionales y del comportamiento que aparecen habitualmente en la ni?ez y en la adolescencia"
+"dec10":"Otros trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez y en la adolescencia"
 },
 {
 "id10":"F989",
-"dec10":"Trastornos no especificados, emocionales y del comportamiento, que aparecen habitualmente en la ni?ez y en la adolescencia"
+"dec10":"Trastornos no especificados, emocionales y del comportamiento, que aparecen habitualmente en la niñez y en la adolescencia"
 },
 {
 "id10":"F99",
@@ -11820,11 +11820,11 @@ var DATA =
 },
 {
 "id10":"G406",
-"dec10":"Ataques de gran mal, no especificados (con o sin peque?o mal)"
+"dec10":"Ataques de gran mal, no especificados (con o sin pequeño mal)"
 },
 {
 "id10":"G407",
-"dec10":"Peque?o mal, no especificado (sin ataque de gran mal)"
+"dec10":"Pequeño mal, no especificado (sin ataque de gran mal)"
 },
 {
 "id10":"G408",
@@ -11844,7 +11844,7 @@ var DATA =
 },
 {
 "id10":"G411",
-"dec10":"Estado de peque?o mal epileptico"
+"dec10":"Estado de pequeño mal epileptico"
 },
 {
 "id10":"G412",
@@ -11860,31 +11860,31 @@ var DATA =
 },
 {
 "id10":"G43",
-"dec10":"Migra?a"
+"dec10":"Migraña"
 },
 {
 "id10":"G430",
-"dec10":"Migra?a sin aura [migra?a comun]"
+"dec10":"Migraña sin aura [migraña comun]"
 },
 {
 "id10":"G431",
-"dec10":"Migra?a con aura [migra?a clasica]"
+"dec10":"Migraña con aura [migraña clasica]"
 },
 {
 "id10":"G432",
-"dec10":"Estado migra?oso"
+"dec10":"Estado migrañoso"
 },
 {
 "id10":"G433",
-"dec10":"Migra?a complicada"
+"dec10":"Migraña complicada"
 },
 {
 "id10":"G438",
-"dec10":"Otras migra?as"
+"dec10":"Otras migrañas"
 },
 {
 "id10":"G439",
-"dec10":"Migra?a, no especificada"
+"dec10":"Migraña, no especificada"
 },
 {
 "id10":"G44",
@@ -11992,7 +11992,7 @@ var DATA =
 },
 {
 "id10":"G470",
-"dec10":"Trastornos del inicio y del mantenimiento del sue?o [insomnios]"
+"dec10":"Trastornos del inicio y del mantenimiento del sueño [insomnios]"
 },
 {
 "id10":"G471",
@@ -12004,7 +12004,7 @@ var DATA =
 },
 {
 "id10":"G473",
-"dec10":"Apnea del sue?o"
+"dec10":"Apnea del sueño"
 },
 {
 "id10":"G474",
@@ -12012,11 +12012,11 @@ var DATA =
 },
 {
 "id10":"G478",
-"dec10":"Otros trastornos del sue?o"
+"dec10":"Otros trastornos del sueño"
 },
 {
 "id10":"G479",
-"dec10":"Trastorno del sue?o, no especificado"
+"dec10":"Trastorno del sueño, no especificado"
 },
 {
 "id10":"G50",
@@ -13012,7 +13012,7 @@ var DATA =
 },
 {
 "id10":"H055",
-"dec10":"Retencion de cuerpo extra?o (antiguo), consecutiva a herida penetrante de la orbita"
+"dec10":"Retencion de cuerpo extraño (antiguo), consecutiva a herida penetrante de la orbita"
 },
 {
 "id10":"H058",
@@ -13732,11 +13732,11 @@ var DATA =
 },
 {
 "id10":"H446",
-"dec10":"Retencion intraocular de cuerpo extra?o magnetico (antiguo)"
+"dec10":"Retencion intraocular de cuerpo extraño magnetico (antiguo)"
 },
 {
 "id10":"H447",
-"dec10":"Retencion intraocular de cuerpo extra?o no magnetico (antiguo)"
+"dec10":"Retencion intraocular de cuerpo extraño no magnetico (antiguo)"
 },
 {
 "id10":"H448",
@@ -17172,7 +17172,7 @@ var DATA =
 },
 {
 "id10":"J635",
-"dec10":"Esta?osis"
+"dec10":"Estañosis"
 },
 {
 "id10":"J638",
@@ -17580,7 +17580,7 @@ var DATA =
 },
 {
 "id10":"K002",
-"dec10":"Anomalias del tama?o y de la forma del diente"
+"dec10":"Anomalias del tamaño y de la forma del diente"
 },
 {
 "id10":"K003",
@@ -17804,7 +17804,7 @@ var DATA =
 },
 {
 "id10":"K070",
-"dec10":"Anomalias evidentes del tama?o de los maxilares"
+"dec10":"Anomalias evidentes del tamaño de los maxilares"
 },
 {
 "id10":"K071",
@@ -19636,7 +19636,7 @@ var DATA =
 },
 {
 "id10":"L103",
-"dec10":"Penfigo brasile?o [fogo selvagem]"
+"dec10":"Penfigo brasileño [fogo selvagem]"
 },
 {
 "id10":"L104",
@@ -20048,7 +20048,7 @@ var DATA =
 },
 {
 "id10":"L413",
-"dec10":"Parapsoriasis en placas peque?as"
+"dec10":"Parapsoriasis en placas pequeñas"
 },
 {
 "id10":"L414",
@@ -20368,11 +20368,11 @@ var DATA =
 },
 {
 "id10":"L60",
-"dec10":"Trastornos de las u?as"
+"dec10":"Trastornos de las uñas"
 },
 {
 "id10":"L600",
-"dec10":"U?a encarnada"
+"dec10":"Uña encarnada"
 },
 {
 "id10":"L601",
@@ -20392,27 +20392,27 @@ var DATA =
 },
 {
 "id10":"L605",
-"dec10":"Sindrome de la u?a amarilla"
+"dec10":"Sindrome de la uña amarilla"
 },
 {
 "id10":"L608",
-"dec10":"Otros trastornos de las u?as"
+"dec10":"Otros trastornos de las uñas"
 },
 {
 "id10":"L609",
-"dec10":"Trastorno de la u?a, no especificado"
+"dec10":"Trastorno de la uña, no especificado"
 },
 {
 "id10":"L62",
-"dec10":"Trastornos u?as en enfermedades clasificadas en otra parte"
+"dec10":"Trastornos uñas en enfermedades clasificadas en otra parte"
 },
 {
 "id10":"L620",
-"dec10":"U?a deforme de la paquidermoperiostosis (m89.4)"
+"dec10":"Uña deforme de la paquidermoperiostosis (m89.4)"
 },
 {
 "id10":"L628",
-"dec10":"Trastornos de las u?as en otras enfermedades clasificadas en otra parte"
+"dec10":"Trastornos de las uñas en otras enfermedades clasificadas en otra parte"
 },
 {
 "id10":"L63",
@@ -20916,7 +20916,7 @@ var DATA =
 },
 {
 "id10":"L923",
-"dec10":"Granuloma por cuerpo extra?o de la piel y en el tejido subcutaneo"
+"dec10":"Granuloma por cuerpo extraño de la piel y en el tejido subcutaneo"
 },
 {
 "id10":"L928",
@@ -21660,7 +21660,7 @@ var DATA =
 },
 {
 "id10":"M213",
-"dec10":"Mu?eca o pie en pendulo (adquirido)"
+"dec10":"Muñeca o pie en pendulo (adquirido)"
 },
 {
 "id10":"M214",
@@ -22440,7 +22440,7 @@ var DATA =
 },
 {
 "id10":"M602",
-"dec10":"Granuloma por cuerpo extra?o en tejido blando, no clasificado en otra parte"
+"dec10":"Granuloma por cuerpo extraño en tejido blando, no clasificado en otra parte"
 },
 {
 "id10":"M608",
@@ -22656,7 +22656,7 @@ var DATA =
 },
 {
 "id10":"M700",
-"dec10":"Sinovitis crepitante cronica de la mano y de la mu?eca"
+"dec10":"Sinovitis crepitante cronica de la mano y de la muñeca"
 },
 {
 "id10":"M701",
@@ -22876,7 +22876,7 @@ var DATA =
 },
 {
 "id10":"M772",
-"dec10":"Periartritis de la mu?eca"
+"dec10":"Periartritis de la muñeca"
 },
 {
 "id10":"M773",
@@ -22924,7 +22924,7 @@ var DATA =
 },
 {
 "id10":"M795",
-"dec10":"Cuerpo extra?o residual en tejido blando"
+"dec10":"Cuerpo extraño residual en tejido blando"
 },
 {
 "id10":"M796",
@@ -23972,7 +23972,7 @@ var DATA =
 },
 {
 "id10":"N132",
-"dec10":"Hidronefrosis con obstruccion por calculos del ri?on y del ureter"
+"dec10":"Hidronefrosis con obstruccion por calculos del riñon y del ureter"
 },
 {
 "id10":"N133",
@@ -24128,7 +24128,7 @@ var DATA =
 },
 {
 "id10":"N200",
-"dec10":"Calculo del ri?on"
+"dec10":"Calculo del riñon"
 },
 {
 "id10":"N201",
@@ -24136,7 +24136,7 @@ var DATA =
 },
 {
 "id10":"N202",
-"dec10":"Calculo del ri?on con calculo del ureter"
+"dec10":"Calculo del riñon con calculo del ureter"
 },
 {
 "id10":"N209",
@@ -24208,15 +24208,15 @@ var DATA =
 },
 {
 "id10":"N270",
-"dec10":"Ri?on peque?o, unilateral"
+"dec10":"Riñon pequeño, unilateral"
 },
 {
 "id10":"N271",
-"dec10":"Ri?on peque?o, bilateral"
+"dec10":"Riñon pequeño, bilateral"
 },
 {
 "id10":"N279",
-"dec10":"Ri?on peque?o, no especificado"
+"dec10":"Riñon pequeño, no especificado"
 },
 {
 "id10":"N28",
@@ -24224,19 +24224,19 @@ var DATA =
 },
 {
 "id10":"N280",
-"dec10":"Isquemia e infarto del ri?on"
+"dec10":"Isquemia e infarto del riñon"
 },
 {
 "id10":"N281",
-"dec10":"Quiste de ri?on, adquirido"
+"dec10":"Quiste de riñon, adquirido"
 },
 {
 "id10":"N288",
-"dec10":"Otros trastornos especificados del ri?on y del ureter"
+"dec10":"Otros trastornos especificados del riñon y del ureter"
 },
 {
 "id10":"N289",
-"dec10":"Trastorno del ri?on y del ureter, no especificado"
+"dec10":"Trastorno del riñon y del ureter, no especificado"
 },
 {
 "id10":"N29",
@@ -24248,11 +24248,11 @@ var DATA =
 },
 {
 "id10":"N291",
-"dec10":"Otros trastornos del ri?on y del ureter en enfermedades infecciosas y parasitarias clasificadas en otra parte"
+"dec10":"Otros trastornos del riñon y del ureter en enfermedades infecciosas y parasitarias clasificadas en otra parte"
 },
 {
 "id10":"N298",
-"dec10":"Otros trastornos del ri?on y del ureter en otras enfermedades clasificadas en otra parte"
+"dec10":"Otros trastornos del riñon y del ureter en otras enfermedades clasificadas en otra parte"
 },
 {
 "id10":"N30",
@@ -26048,7 +26048,7 @@ var DATA =
 },
 {
 "id10":"O230",
-"dec10":"Infeccion del ri?on en el embarazo"
+"dec10":"Infeccion del riñon en el embarazo"
 },
 {
 "id10":"O231",
@@ -26116,7 +26116,7 @@ var DATA =
 },
 {
 "id10":"O261",
-"dec10":"Aumento peque?o de peso en el embarazo"
+"dec10":"Aumento pequeño de peso en el embarazo"
 },
 {
 "id10":"O262",
@@ -27416,7 +27416,7 @@ var DATA =
 },
 {
 "id10":"O96",
-"dec10":"Muerte materna debida a cualquier causa obstetrica que ocurre despues de 42 dias pero antes de un a?o del parto"
+"dec10":"Muerte materna debida a cualquier causa obstetrica que ocurre despues de 42 dias pero antes de un año del parto"
 },
 {
 "id10":"O97",
@@ -27724,7 +27724,7 @@ var DATA =
 },
 {
 "id10":"P051",
-"dec10":"Peque?o para edad gestacional"
+"dec10":"Pequeño para edad gestacional"
 },
 {
 "id10":"P052",
@@ -28168,7 +28168,7 @@ var DATA =
 },
 {
 "id10":"P283",
-"dec10":"Apnea primaria del sue?o del recien nacido"
+"dec10":"Apnea primaria del sueño del recien nacido"
 },
 {
 "id10":"P284",
@@ -30616,15 +30616,15 @@ var DATA =
 },
 {
 "id10":"Q611",
-"dec10":"Ri?on poliquistico, autosomico recesivo"
+"dec10":"Riñon poliquistico, autosomico recesivo"
 },
 {
 "id10":"Q612",
-"dec10":"Ri?on poliquistico, autosomico dominante"
+"dec10":"Riñon poliquistico, autosomico dominante"
 },
 {
 "id10":"Q613",
-"dec10":"Ri?on poliquistico, tipo no especificado"
+"dec10":"Riñon poliquistico, tipo no especificado"
 },
 {
 "id10":"Q614",
@@ -30632,7 +30632,7 @@ var DATA =
 },
 {
 "id10":"Q615",
-"dec10":"Ri?on quistico medular"
+"dec10":"Riñon quistico medular"
 },
 {
 "id10":"Q618",
@@ -30640,7 +30640,7 @@ var DATA =
 },
 {
 "id10":"Q619",
-"dec10":"Enfermedad quistica del ri?on, no especificada"
+"dec10":"Enfermedad quistica del riñon, no especificada"
 },
 {
 "id10":"Q62",
@@ -30684,31 +30684,31 @@ var DATA =
 },
 {
 "id10":"Q63",
-"dec10":"Otras malformaciones congenitas del ri?on"
+"dec10":"Otras malformaciones congenitas del riñon"
 },
 {
 "id10":"Q630",
-"dec10":"Ri?on supernumerario"
+"dec10":"Riñon supernumerario"
 },
 {
 "id10":"Q631",
-"dec10":"Ri?on lobulado, fusionado y en herradura"
+"dec10":"Riñon lobulado, fusionado y en herradura"
 },
 {
 "id10":"Q632",
-"dec10":"Ri?on ectopico"
+"dec10":"Riñon ectopico"
 },
 {
 "id10":"Q633",
-"dec10":"Hiperplasia renal y ri?on gigante"
+"dec10":"Hiperplasia renal y riñon gigante"
 },
 {
 "id10":"Q638",
-"dec10":"Otras malformaciones congenitas del ri?on, especificadas"
+"dec10":"Otras malformaciones congenitas del riñon, especificadas"
 },
 {
 "id10":"Q639",
-"dec10":"Malformacion congenita del ri?on, no especificada"
+"dec10":"Malformacion congenita del riñon, no especificada"
 },
 {
 "id10":"Q64",
@@ -31436,11 +31436,11 @@ var DATA =
 },
 {
 "id10":"Q845",
-"dec10":"Agrandamiento e hipertrofia de las u?as"
+"dec10":"Agrandamiento e hipertrofia de las uñas"
 },
 {
 "id10":"Q846",
-"dec10":"Otras malformaciones congenitas de las u?as"
+"dec10":"Otras malformaciones congenitas de las uñas"
 },
 {
 "id10":"Q848",
@@ -32508,11 +32508,11 @@ var DATA =
 },
 {
 "id10":"R461",
-"dec10":"Apariencia personal extra?a"
+"dec10":"Apariencia personal extraña"
 },
 {
 "id10":"R462",
-"dec10":"Conducta extra?a e inexplicable"
+"dec10":"Conducta extraña e inexplicable"
 },
 {
 "id10":"R463",
@@ -33368,7 +33368,7 @@ var DATA =
 },
 {
 "id10":"R944",
-"dec10":"Resultados anormales en estudios funcionales del ri?on"
+"dec10":"Resultados anormales en estudios funcionales del riñon"
 },
 {
 "id10":"R945",
@@ -33612,7 +33612,7 @@ var DATA =
 },
 {
 "id10":"S050",
-"dec10":"Traumatismo de la conjuntiva y abrasion corneal sin mencion de cuerpo extra?o"
+"dec10":"Traumatismo de la conjuntiva y abrasion corneal sin mencion de cuerpo extraño"
 },
 {
 "id10":"S051",
@@ -33628,15 +33628,15 @@ var DATA =
 },
 {
 "id10":"S054",
-"dec10":"Herida penetrante de la orbita con o sin cuerpo extra?o"
+"dec10":"Herida penetrante de la orbita con o sin cuerpo extraño"
 },
 {
 "id10":"S055",
-"dec10":"Herida penetrante del globo ocular con cuerpo extra?o"
+"dec10":"Herida penetrante del globo ocular con cuerpo extraño"
 },
 {
 "id10":"S056",
-"dec10":"Herida penetrante del globo ocular sin cuerpo extra?o"
+"dec10":"Herida penetrante del globo ocular sin cuerpo extraño"
 },
 {
 "id10":"S057",
@@ -34528,7 +34528,7 @@ var DATA =
 },
 {
 "id10":"S370",
-"dec10":"Traumatismo del ri?on"
+"dec10":"Traumatismo del riñon"
 },
 {
 "id10":"S371",
@@ -35096,7 +35096,7 @@ var DATA =
 },
 {
 "id10":"S581",
-"dec10":"Amputacion traumatica a nivel entre el codo y la mu?eca"
+"dec10":"Amputacion traumatica a nivel entre el codo y la muñeca"
 },
 {
 "id10":"S589",
@@ -35124,27 +35124,27 @@ var DATA =
 },
 {
 "id10":"S600",
-"dec10":"Contusion de dedo(s) de la mano, sin da?o de la(s) u?a(s)"
+"dec10":"Contusion de dedo(s) de la mano, sin daño de la(s) uña(s)"
 },
 {
 "id10":"S601",
-"dec10":"Contusion de dedo(s) de la mano, con da?o de la(s) u?a(s)"
+"dec10":"Contusion de dedo(s) de la mano, con daño de la(s) uña(s)"
 },
 {
 "id10":"S602",
-"dec10":"Contusion de otras partes de la mu?eca y de la mano"
+"dec10":"Contusion de otras partes de la muñeca y de la mano"
 },
 {
 "id10":"S607",
-"dec10":"Traumatismos superficiales multiples de la mu?eca y de la mano"
+"dec10":"Traumatismos superficiales multiples de la muñeca y de la mano"
 },
 {
 "id10":"S608",
-"dec10":"Otros traumatismos superficiales de la mu?eca y de la mano"
+"dec10":"Otros traumatismos superficiales de la muñeca y de la mano"
 },
 {
 "id10":"S609",
-"dec10":"Traumatismo superficial de la mu?eca y de la mano, no especificado"
+"dec10":"Traumatismo superficial de la muñeca y de la mano, no especificado"
 },
 {
 "id10":"S61",
@@ -35152,23 +35152,23 @@ var DATA =
 },
 {
 "id10":"S610",
-"dec10":"Herida de dedo(s) de la mano, sin da?o de la(s) u?a(s)"
+"dec10":"Herida de dedo(s) de la mano, sin daño de la(s) uña(s)"
 },
 {
 "id10":"S611",
-"dec10":"Herida de dedo(s) de la mano, con da?o de la(s) u?a(s)"
+"dec10":"Herida de dedo(s) de la mano, con daño de la(s) uña(s)"
 },
 {
 "id10":"S617",
-"dec10":"Heridas multiples de la mu?eca y de la mano"
+"dec10":"Heridas multiples de la muñeca y de la mano"
 },
 {
 "id10":"S618",
-"dec10":"Heridas de otras partes de la mu?eca y de la mano"
+"dec10":"Heridas de otras partes de la muñeca y de la mano"
 },
 {
 "id10":"S619",
-"dec10":"Herida de la mu?eca y de la mano, parte no especificada"
+"dec10":"Herida de la muñeca y de la mano, parte no especificada"
 },
 {
 "id10":"S62",
@@ -35208,7 +35208,7 @@ var DATA =
 },
 {
 "id10":"S628",
-"dec10":"Fractura de otras partes y de las no especificadas de la mu?eca y de la mano"
+"dec10":"Fractura de otras partes y de las no especificadas de la muñeca y de la mano"
 },
 {
 "id10":"S63",
@@ -35216,7 +35216,7 @@ var DATA =
 },
 {
 "id10":"S630",
-"dec10":"Luxacion de la mu?eca"
+"dec10":"Luxacion de la muñeca"
 },
 {
 "id10":"S631",
@@ -35228,7 +35228,7 @@ var DATA =
 },
 {
 "id10":"S633",
-"dec10":"Ruptura traumatica de ligamentos de la mu?eca y del carpo"
+"dec10":"Ruptura traumatica de ligamentos de la muñeca y del carpo"
 },
 {
 "id10":"S634",
@@ -35236,7 +35236,7 @@ var DATA =
 },
 {
 "id10":"S635",
-"dec10":"Esguinces y torceduras de la mu?eca"
+"dec10":"Esguinces y torceduras de la muñeca"
 },
 {
 "id10":"S636",
@@ -35244,7 +35244,7 @@ var DATA =
 },
 {
 "id10":"S637",
-"dec10":"Esguinces y torceduras de otras partes y de las no especificadas de la mu?eca y de la mano"
+"dec10":"Esguinces y torceduras de otras partes y de las no especificadas de la muñeca y de la mano"
 },
 {
 "id10":"S64",
@@ -35252,15 +35252,15 @@ var DATA =
 },
 {
 "id10":"S640",
-"dec10":"Traumatismo del nervio cubital a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del nervio cubital a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S641",
-"dec10":"Traumatismo del nervio mediano a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del nervio mediano a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S642",
-"dec10":"Traumatismo del nervio radial a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del nervio radial a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S643",
@@ -35272,27 +35272,27 @@ var DATA =
 },
 {
 "id10":"S647",
-"dec10":"Traumatismo de multiples nervios a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de multiples nervios a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S648",
-"dec10":"Traumatismo de otros nervios a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de otros nervios a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S649",
-"dec10":"Traumatismo de nervio no especificado a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de nervio no especificado a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S65",
-"dec10":"Traumatismo de los vasos sanguineos a nivel de la muneca y de la mano"
+"dec10":"Traumatismo de los vasos sanguineos a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S650",
-"dec10":"Traumatismo de la arteria cubital a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de la arteria cubital a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S651",
-"dec10":"Traumatismo de la arteria radial a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de la arteria radial a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S652",
@@ -35312,15 +35312,15 @@ var DATA =
 },
 {
 "id10":"S657",
-"dec10":"Traumatismo de multiples vasos sanguineos a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de multiples vasos sanguineos a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S658",
-"dec10":"Traumatismo de otros vasos sanguineos a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de otros vasos sanguineos a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S659",
-"dec10":"Traumatismo de vaso sanguineo no especificado a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de vaso sanguineo no especificado a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S66",
@@ -35328,43 +35328,43 @@ var DATA =
 },
 {
 "id10":"S660",
-"dec10":"Traumatismo del tendon y musculo flexor largo del pulgar a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del tendon y musculo flexor largo del pulgar a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S661",
-"dec10":"Traumatismo del tendon y musculo flexor de otro dedo a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del tendon y musculo flexor de otro dedo a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S662",
-"dec10":"Traumatismo del tendon y musculo extensor del pulgar a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del tendon y musculo extensor del pulgar a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S663",
-"dec10":"Traumatismo del tendon y musculo extensor de otro(s) dedo(s) a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del tendon y musculo extensor de otro(s) dedo(s) a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S664",
-"dec10":"Traumatismo del musculo y tendon intrinseco del pulgar a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del musculo y tendon intrinseco del pulgar a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S665",
-"dec10":"Traumatismo del musculo y tendon intrinseco de otro(s) dedo(s) a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo del musculo y tendon intrinseco de otro(s) dedo(s) a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S666",
-"dec10":"Traumatismo de multiples tendones y musculos flexores a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de multiples tendones y musculos flexores a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S667",
-"dec10":"Traumatismo de multiples tendones y musculos extensores a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de multiples tendones y musculos extensores a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S668",
-"dec10":"Traumatismo de otros tendones y musculos a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de otros tendones y musculos a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S669",
-"dec10":"Traumatismo de tendon y musculo no especificado, a nivel de la mu?eca y de la mano"
+"dec10":"Traumatismo de tendon y musculo no especificado, a nivel de la muñeca y de la mano"
 },
 {
 "id10":"S67",
@@ -35376,7 +35376,7 @@ var DATA =
 },
 {
 "id10":"S678",
-"dec10":"Traumatismo por aplastamiento de otras partes y de las no especificadas de la mu?eca y de la mano"
+"dec10":"Traumatismo por aplastamiento de otras partes y de las no especificadas de la muñeca y de la mano"
 },
 {
 "id10":"S68",
@@ -35396,19 +35396,19 @@ var DATA =
 },
 {
 "id10":"S683",
-"dec10":"Amputacion traumatica combinada (de parte) de dedo(s) con otras partes de la mu?eca y de la mano"
+"dec10":"Amputacion traumatica combinada (de parte) de dedo(s) con otras partes de la muñeca y de la mano"
 },
 {
 "id10":"S684",
-"dec10":"Amputacion traumatica de la mano a nivel de la mu?eca"
+"dec10":"Amputacion traumatica de la mano a nivel de la muñeca"
 },
 {
 "id10":"S688",
-"dec10":"Amputacion traumatica de otras partes de la mu?eca y de la mano"
+"dec10":"Amputacion traumatica de otras partes de la muñeca y de la mano"
 },
 {
 "id10":"S689",
-"dec10":"Amputacion traumatica de la mu?eca y de la mano, nivel no especificado"
+"dec10":"Amputacion traumatica de la muñeca y de la mano, nivel no especificado"
 },
 {
 "id10":"S69",
@@ -35416,15 +35416,15 @@ var DATA =
 },
 {
 "id10":"S697",
-"dec10":"Traumatismos multiples de la mu?eca y de la mano"
+"dec10":"Traumatismos multiples de la muñeca y de la mano"
 },
 {
 "id10":"S698",
-"dec10":"Otros traumatismos especificados de la mu?eca y de la mano"
+"dec10":"Otros traumatismos especificados de la muñeca y de la mano"
 },
 {
 "id10":"S699",
-"dec10":"Traumatismo no especificado de la mu?eca y de la mano"
+"dec10":"Traumatismo no especificado de la muñeca y de la mano"
 },
 {
 "id10":"S70",
@@ -35928,11 +35928,11 @@ var DATA =
 },
 {
 "id10":"S901",
-"dec10":"Contusion de dedo(s) del pie, sin da?o de la(s) u?a(s)"
+"dec10":"Contusion de dedo(s) del pie, sin daño de la(s) uña(s)"
 },
 {
 "id10":"S902",
-"dec10":"Contusion de dedo(s) del pie, con da?o de la(s) u?a(s)"
+"dec10":"Contusion de dedo(s) del pie, con daño de la(s) uña(s)"
 },
 {
 "id10":"S903",
@@ -35960,11 +35960,11 @@ var DATA =
 },
 {
 "id10":"S911",
-"dec10":"Herida de dedo(s) del pie sin da?o de la(s) u?a(s)"
+"dec10":"Herida de dedo(s) del pie sin daño de la(s) uña(s)"
 },
 {
 "id10":"S912",
-"dec10":"Herida de dedo(s) del pie con da?o de la(s) u?a(s)"
+"dec10":"Herida de dedo(s) del pie con daño de la(s) uña(s)"
 },
 {
 "id10":"S913",
@@ -36620,19 +36620,19 @@ var DATA =
 },
 {
 "id10":"T150",
-"dec10":"Cuerpo extra?o en la cornea"
+"dec10":"Cuerpo extraño en la cornea"
 },
 {
 "id10":"T151",
-"dec10":"Cuerpo extra?o en el saco conjuntival"
+"dec10":"Cuerpo extraño en el saco conjuntival"
 },
 {
 "id10":"T158",
-"dec10":"Cuerpo extra?o en otras y en multiples partes de la parte externa del ojo"
+"dec10":"Cuerpo extraño en otras y en multiples partes de la parte externa del ojo"
 },
 {
 "id10":"T159",
-"dec10":"Cuerpo extra?o en parte externa del ojo, sitio no especificado"
+"dec10":"Cuerpo extraño en parte externa del ojo, sitio no especificado"
 },
 {
 "id10":"T16",
@@ -36644,35 +36644,35 @@ var DATA =
 },
 {
 "id10":"T170",
-"dec10":"Cuerpo extra?o en seno paranasal"
+"dec10":"Cuerpo extraño en seno paranasal"
 },
 {
 "id10":"T171",
-"dec10":"Cuerpo extra?o en el orificio nasal"
+"dec10":"Cuerpo extraño en el orificio nasal"
 },
 {
 "id10":"T172",
-"dec10":"Cuerpo extra?o en la faringe"
+"dec10":"Cuerpo extraño en la faringe"
 },
 {
 "id10":"T173",
-"dec10":"Cuerpo extra?o en la laringe"
+"dec10":"Cuerpo extraño en la laringe"
 },
 {
 "id10":"T174",
-"dec10":"Cuerpo extra?o en la traquea"
+"dec10":"Cuerpo extraño en la traquea"
 },
 {
 "id10":"T175",
-"dec10":"Cuerpo extra?o en bronquios"
+"dec10":"Cuerpo extraño en bronquios"
 },
 {
 "id10":"T178",
-"dec10":"Cuerpo extra?o en otras y en multiples partes de las vias respiratorias"
+"dec10":"Cuerpo extraño en otras y en multiples partes de las vias respiratorias"
 },
 {
 "id10":"T179",
-"dec10":"Cuerpo extra?o en las vias respiratorias, parte no especificada"
+"dec10":"Cuerpo extraño en las vias respiratorias, parte no especificada"
 },
 {
 "id10":"T18",
@@ -36680,63 +36680,63 @@ var DATA =
 },
 {
 "id10":"T180",
-"dec10":"Cuerpo extra?o en la boca"
+"dec10":"Cuerpo extraño en la boca"
 },
 {
 "id10":"T181",
-"dec10":"Cuerpo extra?o en el esofago"
+"dec10":"Cuerpo extraño en el esofago"
 },
 {
 "id10":"T182",
-"dec10":"Cuerpo extra?o en el estomago"
+"dec10":"Cuerpo extraño en el estomago"
 },
 {
 "id10":"T183",
-"dec10":"Cuerpo extra?o en el intestino delgado"
+"dec10":"Cuerpo extraño en el intestino delgado"
 },
 {
 "id10":"T184",
-"dec10":"Cuerpo extra?o en el colon"
+"dec10":"Cuerpo extraño en el colon"
 },
 {
 "id10":"T185",
-"dec10":"Cuerpo extra?o en el ano y en el recto"
+"dec10":"Cuerpo extraño en el ano y en el recto"
 },
 {
 "id10":"T188",
-"dec10":"Cuerpo extra?o en otras y en multiples partes del tubo digestivo"
+"dec10":"Cuerpo extraño en otras y en multiples partes del tubo digestivo"
 },
 {
 "id10":"T189",
-"dec10":"Cuerpo extra?o en el tubo digestivo, parte no especificada"
+"dec10":"Cuerpo extraño en el tubo digestivo, parte no especificada"
 },
 {
 "id10":"T19",
-"dec10":"Cuerpo extrano en las vias genitourinarias"
+"dec10":"Cuerpo extraño en las vias genitourinarias"
 },
 {
 "id10":"T190",
-"dec10":"Cuerpo extra?o en la uretra"
+"dec10":"Cuerpo extraño en la uretra"
 },
 {
 "id10":"T191",
-"dec10":"Cuerpo extra?o en la vejiga"
+"dec10":"Cuerpo extraño en la vejiga"
 },
 {
 "id10":"T192",
-"dec10":"Cuerpo extra?o en la vulva y en la vagina"
+"dec10":"Cuerpo extraño en la vulva y en la vagina"
 },
 {
 "id10":"T193",
-"dec10":"Cuerpo extra?o en el utero [cualquier parte]"
+"dec10":"Cuerpo extraño en el utero [cualquier parte]"
 },
 {
 "id10":"T198",
-"dec10":"Cuerpo extra?o en otras y en multiples partes de las vias genitourinarias"
+"dec10":"Cuerpo extraño en otras y en multiples partes de las vias genitourinarias"
 },
 {
 "id10":"T199",
-"dec10":"Cuerpo extra?o en las vias genitourinarias, parte no especificada"
+"dec10":"Cuerpo extraño en las vias genitourinarias, parte no especificada"
 },
 {
 "id10":"T20",
@@ -36812,39 +36812,39 @@ var DATA =
 },
 {
 "id10":"T22",
-"dec10":"Quemadura y corrosion del hombro y del miembro superior, excepto de la mu?eca y de la mano"
+"dec10":"Quemadura y corrosion del hombro y del miembro superior, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T220",
-"dec10":"Quemadura del hombro y miembro superior, grado no especificado, excepto de la mu?eca y de la mano"
+"dec10":"Quemadura del hombro y miembro superior, grado no especificado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T221",
-"dec10":"Quemadura del hombro y miembro superior, de primer grado, excepto de la mu?eca y de la mano"
+"dec10":"Quemadura del hombro y miembro superior, de primer grado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T222",
-"dec10":"Quemadura del hombro y miembro superior, de segundo grado, excepto de la mu?eca y de la mano"
+"dec10":"Quemadura del hombro y miembro superior, de segundo grado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T223",
-"dec10":"Quemadura del hombro y miembro superior, de tercer grado, excepto de la mu?eca y de la mano"
+"dec10":"Quemadura del hombro y miembro superior, de tercer grado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T224",
-"dec10":"Corrosion del hombro y miembro superior, grado no especificado, excepto de la mu?eca y de la mano"
+"dec10":"Corrosion del hombro y miembro superior, grado no especificado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T225",
-"dec10":"Corrosion del hombro y miembro superior, de primer grado, excepto de la mu?eca y de la mano"
+"dec10":"Corrosion del hombro y miembro superior, de primer grado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T226",
-"dec10":"Corrosion del hombro y miembro superior, de segundo grado, excepto de la mu?eca y de la mano"
+"dec10":"Corrosion del hombro y miembro superior, de segundo grado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T227",
-"dec10":"Corrosion del hombro y miembro superior, de tercer grado, excepto de la mu?eca y de la mano"
+"dec10":"Corrosion del hombro y miembro superior, de tercer grado, excepto de la muñeca y de la mano"
 },
 {
 "id10":"T23",
@@ -36852,35 +36852,35 @@ var DATA =
 },
 {
 "id10":"T230",
-"dec10":"Quemadura de la mu?eca y de la mano, grado no especificado"
+"dec10":"Quemadura de la muñeca y de la mano, grado no especificado"
 },
 {
 "id10":"T231",
-"dec10":"Quemadura de la mu?eca y de la mano, de primer grado"
+"dec10":"Quemadura de la muñeca y de la mano, de primer grado"
 },
 {
 "id10":"T232",
-"dec10":"Quemadura de la mu?eca y de la mano, de segundo grado"
+"dec10":"Quemadura de la muñeca y de la mano, de segundo grado"
 },
 {
 "id10":"T233",
-"dec10":"Quemadura de la mu?eca y de la mano, de tercer grado"
+"dec10":"Quemadura de la muñeca y de la mano, de tercer grado"
 },
 {
 "id10":"T234",
-"dec10":"Corrosion de la mu?eca y de la mano, grado no especificado"
+"dec10":"Corrosion de la muñeca y de la mano, grado no especificado"
 },
 {
 "id10":"T235",
-"dec10":"Corrosion de la mu?eca y de la mano, de primer grado"
+"dec10":"Corrosion de la muñeca y de la mano, de primer grado"
 },
 {
 "id10":"T236",
-"dec10":"Corrosion de la mu?eca y de la mano, de segundo grado"
+"dec10":"Corrosion de la muñeca y de la mano, de segundo grado"
 },
 {
 "id10":"T237",
-"dec10":"Corrosion de la mu?eca y de la mano, de tercer grado"
+"dec10":"Corrosion de la muñeca y de la mano, de tercer grado"
 },
 {
 "id10":"T24",
@@ -37264,7 +37264,7 @@ var DATA =
 },
 {
 "id10":"T335",
-"dec10":"Congelamiento superficial de la mu?eca y de la mano"
+"dec10":"Congelamiento superficial de la muñeca y de la mano"
 },
 {
 "id10":"T336",
@@ -37308,7 +37308,7 @@ var DATA =
 },
 {
 "id10":"T345",
-"dec10":"Congelamiento con necrosis tisular de la mu?eca y de la mano"
+"dec10":"Congelamiento con necrosis tisular de la muñeca y de la mano"
 },
 {
 "id10":"T346",
@@ -38128,7 +38128,7 @@ var DATA =
 },
 {
 "id10":"T566",
-"dec10":"Efecto toxico de metales: esta?o y sus compuestos"
+"dec10":"Efecto toxico de metales: estaño y sus compuestos"
 },
 {
 "id10":"T567",
@@ -38316,7 +38316,7 @@ var DATA =
 },
 {
 "id10":"T633",
-"dec10":"Efecto toxico del contacto con animales venenosos: veneno de ara?as"
+"dec10":"Efecto toxico del contacto con animales venenosos: veneno de arañas"
 },
 {
 "id10":"T634",
@@ -38444,7 +38444,7 @@ var DATA =
 },
 {
 "id10":"T691",
-"dec10":"Saba?on(es)"
+"dec10":"Sabañon(es)"
 },
 {
 "id10":"T698",
@@ -38716,11 +38716,11 @@ var DATA =
 },
 {
 "id10":"T815",
-"dec10":"Cuerpo extra?o dejado accidentalmente en cavidad corporal o en herida operatoria consecutiva a procedimiento"
+"dec10":"Cuerpo extraño dejado accidentalmente en cavidad corporal o en herida operatoria consecutiva a procedimiento"
 },
 {
 "id10":"T816",
-"dec10":"Reaccion aguda a sustancia extra?a dejada accidentalmente durante un procedimiento"
+"dec10":"Reaccion aguda a sustancia extraña dejada accidentalmente durante un procedimiento"
 },
 {
 "id10":"T817",
@@ -38916,7 +38916,7 @@ var DATA =
 },
 {
 "id10":"T861",
-"dec10":"Falla y rechazo de trasplante de ri?on"
+"dec10":"Falla y rechazo de trasplante de riñon"
 },
 {
 "id10":"T862",
@@ -38956,19 +38956,19 @@ var DATA =
 },
 {
 "id10":"T873",
-"dec10":"Neuroma de mu?on de amputacion"
+"dec10":"Neuroma de muñon de amputacion"
 },
 {
 "id10":"T874",
-"dec10":"Infeccion de mu?on de amputacion"
+"dec10":"Infeccion de muñon de amputacion"
 },
 {
 "id10":"T875",
-"dec10":"Necrosis de mu?on de amputacion"
+"dec10":"Necrosis de muñon de amputacion"
 },
 {
 "id10":"T876",
-"dec10":"Otras complicaciones y las no especificadas de mu?on de amputacion"
+"dec10":"Otras complicaciones y las no especificadas de muñon de amputacion"
 },
 {
 "id10":"T88",
@@ -39100,7 +39100,7 @@ var DATA =
 },
 {
 "id10":"T922",
-"dec10":"Secuelas de fractura de la mu?eca y de la mano"
+"dec10":"Secuelas de fractura de la muñeca y de la mano"
 },
 {
 "id10":"T923",
@@ -39224,7 +39224,7 @@ var DATA =
 },
 {
 "id10":"T980",
-"dec10":"Secuelas de efectos de cuerpos extra?os que penetran en orificios naturales"
+"dec10":"Secuelas de efectos de cuerpos extraños que penetran en orificios naturales"
 },
 {
 "id10":"T981",
@@ -43444,47 +43444,47 @@ var DATA =
 },
 {
 "id10":"W15",
-"dec10":"Caida desde pe?asco"
+"dec10":"Caida desde peñasco"
 },
 {
 "id10":"W150",
-"dec10":"Caida desde pe?asco: vivienda"
+"dec10":"Caida desde peñasco: vivienda"
 },
 {
 "id10":"W151",
-"dec10":"Caida desde pe?asco: institucion residencial"
+"dec10":"Caida desde peñasco: institucion residencial"
 },
 {
 "id10":"W152",
-"dec10":"Caida desde pe?asco: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Caida desde peñasco: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W153",
-"dec10":"Caida desde pe?asco: areas de deporte y atletismo"
+"dec10":"Caida desde peñasco: areas de deporte y atletismo"
 },
 {
 "id10":"W154",
-"dec10":"Caida desde pe?asco: calles y carreteras"
+"dec10":"Caida desde peñasco: calles y carreteras"
 },
 {
 "id10":"W155",
-"dec10":"Caida desde pe?asco: comercio y area de servicios"
+"dec10":"Caida desde peñasco: comercio y area de servicios"
 },
 {
 "id10":"W156",
-"dec10":"Caida desde pe?asco: area industrial y de la construccion"
+"dec10":"Caida desde peñasco: area industrial y de la construccion"
 },
 {
 "id10":"W157",
-"dec10":"Caida desde pe?asco: granja"
+"dec10":"Caida desde peñasco: granja"
 },
 {
 "id10":"W158",
-"dec10":"Caida desde pe?asco: otro lugar especificado"
+"dec10":"Caida desde peñasco: otro lugar especificado"
 },
 {
 "id10":"W159",
-"dec10":"Caida desde pe?asco: lugar no especificado"
+"dec10":"Caida desde peñasco: lugar no especificado"
 },
 {
 "id10":"W16",
@@ -43928,47 +43928,47 @@ var DATA =
 },
 {
 "id10":"W26",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal"
 },
 {
 "id10":"W260",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: vivienda"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: vivienda"
 },
 {
 "id10":"W261",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: institucion residencial"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: institucion residencial"
 },
 {
 "id10":"W262",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W263",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: areas de deporte y atletismo"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: areas de deporte y atletismo"
 },
 {
 "id10":"W264",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: calles y carreteras"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: calles y carreteras"
 },
 {
 "id10":"W265",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: comercio y area de servicios"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: comercio y area de servicios"
 },
 {
 "id10":"W266",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: area industrial y de la construccion"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: area industrial y de la construccion"
 },
 {
 "id10":"W267",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: granja"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: granja"
 },
 {
 "id10":"W268",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: otro lugar especificado"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: otro lugar especificado"
 },
 {
 "id10":"W269",
-"dec10":"Contacto traumatico con cuchillo, espada, daga o pu?al: lugar no especificado"
+"dec10":"Contacto traumatico con cuchillo, espada, daga o puñal: lugar no especificado"
 },
 {
 "id10":"W27",
@@ -44720,91 +44720,91 @@ var DATA =
 },
 {
 "id10":"W44",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural"
 },
 {
 "id10":"W440",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: vivienda"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: vivienda"
 },
 {
 "id10":"W441",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: institucion residencial"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: institucion residencial"
 },
 {
 "id10":"W442",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W443",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: areas de deporte y atletismo"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: areas de deporte y atletismo"
 },
 {
 "id10":"W444",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: calles y carreteras"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: calles y carreteras"
 },
 {
 "id10":"W445",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: comercio y areas de servicio"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: comercio y areas de servicio"
 },
 {
 "id10":"W446",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: area industrial y de la construccion"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: area industrial y de la construccion"
 },
 {
 "id10":"W447",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: granja"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: granja"
 },
 {
 "id10":"W448",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: otro lugar especificado"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: otro lugar especificado"
 },
 {
 "id10":"W449",
-"dec10":"Cuerpo extra?o que penetra por el ojo u orificio natural: lugar no especificado"
+"dec10":"Cuerpo extraño que penetra por el ojo u orificio natural: lugar no especificado"
 },
 {
 "id10":"W45",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel"
+"dec10":"Cuerpo extraño que penetra a traves de la piel"
 },
 {
 "id10":"W450",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: vivienda"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: vivienda"
 },
 {
 "id10":"W451",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: institucion residencial"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: institucion residencial"
 },
 {
 "id10":"W452",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W453",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: areas de deporte y atletismo"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: areas de deporte y atletismo"
 },
 {
 "id10":"W454",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: calles y carreteras"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: calles y carreteras"
 },
 {
 "id10":"W455",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: comercio y areas de servicio"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: comercio y areas de servicio"
 },
 {
 "id10":"W456",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: area industrial y de la construccion"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: area industrial y de la construccion"
 },
 {
 "id10":"W457",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: granja"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: granja"
 },
 {
 "id10":"W458",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: otro lugar especificado"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: otro lugar especificado"
 },
 {
 "id10":"W459",
-"dec10":"Cuerpo extra?o que penetra a traves de la piel: lugar no especificado"
+"dec10":"Cuerpo extraño que penetra a traves de la piel: lugar no especificado"
 },
 {
 "id10":"W49",
@@ -44852,47 +44852,47 @@ var DATA =
 },
 {
 "id10":"W50",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otras personas"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otras personas"
 },
 {
 "id10":"W500",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: vivienda"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: vivienda"
 },
 {
 "id10":"W501",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: institucion residencial"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: institucion residencial"
 },
 {
 "id10":"W502",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W503",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: areas de deporte y atletismo"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: areas de deporte y atletismo"
 },
 {
 "id10":"W504",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: calles y carreteras"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: calles y carreteras"
 },
 {
 "id10":"W505",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: comercio y areas de servicio"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: comercio y areas de servicio"
 },
 {
 "id10":"W506",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: area industrial y de la construccion"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: area industrial y de la construccion"
 },
 {
 "id10":"W507",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: granja"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: granja"
 },
 {
 "id10":"W508",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: otro lugar especificado"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: otro lugar especificado"
 },
 {
 "id10":"W509",
-"dec10":"Aporreo, golpe, mordedura, patada, rasgu?o o torcedura infligidos por otra persona: lugar no especificado"
+"dec10":"Aporreo, golpe, mordedura, patada, rasguño o torcedura infligidos por otra persona: lugar no especificado"
 },
 {
 "id10":"W51",
@@ -45384,43 +45384,43 @@ var DATA =
 },
 {
 "id10":"W650",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: vivienda"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: vivienda"
 },
 {
 "id10":"W651",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: institucion residencial"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: institucion residencial"
 },
 {
 "id10":"W652",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W653",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: areas de deporte y atletismo"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: areas de deporte y atletismo"
 },
 {
 "id10":"W654",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: calles y carreteras"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: calles y carreteras"
 },
 {
 "id10":"W655",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: comercio y areas de servicio"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: comercio y areas de servicio"
 },
 {
 "id10":"W656",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: area industrial y de la construccion"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: area industrial y de la construccion"
 },
 {
 "id10":"W657",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: granja"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: granja"
 },
 {
 "id10":"W658",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: otro lugar especificado"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: otro lugar especificado"
 },
 {
 "id10":"W659",
-"dec10":"Ahogamiento y sumersion mientras se esta en la ba?era: lugar no especificado"
+"dec10":"Ahogamiento y sumersion mientras se esta en la bañera: lugar no especificado"
 },
 {
 "id10":"W66",
@@ -45428,43 +45428,43 @@ var DATA =
 },
 {
 "id10":"W660",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: vivienda"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: vivienda"
 },
 {
 "id10":"W661",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: institucion residencial"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: institucion residencial"
 },
 {
 "id10":"W662",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"W663",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: areas de deporte y atletismo"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: areas de deporte y atletismo"
 },
 {
 "id10":"W664",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: calles y carreteras"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: calles y carreteras"
 },
 {
 "id10":"W665",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: comercio y areas de servicio"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: comercio y areas de servicio"
 },
 {
 "id10":"W666",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: area industrial y de la construccion"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: area industrial y de la construccion"
 },
 {
 "id10":"W667",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: granja"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: granja"
 },
 {
 "id10":"W668",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: otro lugar especificado"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: otro lugar especificado"
 },
 {
 "id10":"W669",
-"dec10":"Ahogamiento y sumersion consecutivos a caida en la ba?era: lugar no especificado"
+"dec10":"Ahogamiento y sumersion consecutivos a caida en la bañera: lugar no especificado"
 },
 {
 "id10":"W67",
@@ -47276,47 +47276,47 @@ var DATA =
 },
 {
 "id10":"X16",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes"
 },
 {
 "id10":"X160",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: vivienda"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: vivienda"
 },
 {
 "id10":"X161",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: institucion residencial"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: institucion residencial"
 },
 {
 "id10":"X162",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"X163",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: areas de deporte y atletismo"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: areas de deporte y atletismo"
 },
 {
 "id10":"X164",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: calles y carreteras"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: calles y carreteras"
 },
 {
 "id10":"X165",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: comercio y areas de servicio"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: comercio y areas de servicio"
 },
 {
 "id10":"X166",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: area industrial y de la construccion"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: area industrial y de la construccion"
 },
 {
 "id10":"X167",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: granja"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: granja"
 },
 {
 "id10":"X168",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: otro lugar especificado"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: otro lugar especificado"
 },
 {
 "id10":"X169",
-"dec10":"Contacto con radiadores, ca?erias y artefactos para calefaccion, calientes: lugar no especificado"
+"dec10":"Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: lugar no especificado"
 },
 {
 "id10":"X17",
@@ -47496,47 +47496,47 @@ var DATA =
 },
 {
 "id10":"X21",
-"dec10":"Contacto traumatico con ara?as venenosas"
+"dec10":"Contacto traumatico con arañas venenosas"
 },
 {
 "id10":"X210",
-"dec10":"Contacto traumatico con ara?as venenosas: vivienda"
+"dec10":"Contacto traumatico con arañas venenosas: vivienda"
 },
 {
 "id10":"X211",
-"dec10":"Contacto traumatico con ara?as venenosas: institucion residencial"
+"dec10":"Contacto traumatico con arañas venenosas: institucion residencial"
 },
 {
 "id10":"X212",
-"dec10":"Contacto traumatico con ara?as venenosas: escuelas, otras instituciones y areas administrativas publicas"
+"dec10":"Contacto traumatico con arañas venenosas: escuelas, otras instituciones y areas administrativas publicas"
 },
 {
 "id10":"X213",
-"dec10":"Contacto traumatico con ara?as venenosas: areas de deporte y atletismo"
+"dec10":"Contacto traumatico con arañas venenosas: areas de deporte y atletismo"
 },
 {
 "id10":"X214",
-"dec10":"Contacto traumatico con ara?as venenosas: calles y carreteras"
+"dec10":"Contacto traumatico con arañas venenosas: calles y carreteras"
 },
 {
 "id10":"X215",
-"dec10":"Contacto traumatico con ara?as venenosas: comercio y areas de servicio"
+"dec10":"Contacto traumatico con arañas venenosas: comercio y areas de servicio"
 },
 {
 "id10":"X216",
-"dec10":"Contacto traumatico con ara?as venenosas: area industrial y de la construccion"
+"dec10":"Contacto traumatico con arañas venenosas: area industrial y de la construccion"
 },
 {
 "id10":"X217",
-"dec10":"Contacto traumatico con ara?as venenosas: granja"
+"dec10":"Contacto traumatico con arañas venenosas: granja"
 },
 {
 "id10":"X218",
-"dec10":"Contacto traumatico con ara?as venenosas: otro lugar especificado"
+"dec10":"Contacto traumatico con arañas venenosas: otro lugar especificado"
 },
 {
 "id10":"X219",
-"dec10":"Contacto traumatico con ara?as venenosas: lugar no especificado"
+"dec10":"Contacto traumatico con arañas venenosas: lugar no especificado"
 },
 {
 "id10":"X22",
@@ -53340,47 +53340,47 @@ var DATA =
 },
 {
 "id10":"Y61",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante la atencion medica y quirurgica"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante la atencion medica y quirurgica"
 },
 {
 "id10":"Y610",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante operacion quirurgica"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante operacion quirurgica"
 },
 {
 "id10":"Y611",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante infusion o transfusion"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante infusion o transfusion"
 },
 {
 "id10":"Y612",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante dialisis renal u otra perfusion"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante dialisis renal u otra perfusion"
 },
 {
 "id10":"Y613",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante inyeccion o inmunizacion"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante inyeccion o inmunizacion"
 },
 {
 "id10":"Y614",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante examen endoscopico"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante examen endoscopico"
 },
 {
 "id10":"Y615",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante cateterizacion cardiaca"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante cateterizacion cardiaca"
 },
 {
 "id10":"Y616",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante aspiracion, puncion y otra cateterizacion"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante aspiracion, puncion y otra cateterizacion"
 },
 {
 "id10":"Y617",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante remocion de cateter o taponamiento"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante remocion de cateter o taponamiento"
 },
 {
 "id10":"Y618",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante otras atenciones medicas y quirurgicas"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante otras atenciones medicas y quirurgicas"
 },
 {
 "id10":"Y619",
-"dec10":"Objeto extra?o dejado accidentalmente en el cuerpo durante atencion medica y quirurgica no especificada"
+"dec10":"Objeto extraño dejado accidentalmente en el cuerpo durante atencion medica y quirurgica no especificada"
 },
 {
 "id10":"Y62",
@@ -54080,7 +54080,7 @@ var DATA =
 },
 {
 "id10":"Z001",
-"dec10":"Control de salud de rutina del ni?o"
+"dec10":"Control de salud de rutina del niño"
 },
 {
 "id10":"Z002",
@@ -54464,7 +54464,7 @@ var DATA =
 },
 {
 "id10":"Z134",
-"dec10":"Examen de pesquisa especial para ciertos trastornos del desarrollo en el ni?o"
+"dec10":"Examen de pesquisa especial para ciertos trastornos del desarrollo en el niño"
 },
 {
 "id10":"Z135",
@@ -54892,7 +54892,7 @@ var DATA =
 },
 {
 "id10":"Z355",
-"dec10":"Supervision de primigesta a?osa"
+"dec10":"Supervision de primigesta añosa"
 },
 {
 "id10":"Z356",
@@ -55416,7 +55416,7 @@ var DATA =
 },
 {
 "id10":"Z524",
-"dec10":"Donante de ri?on"
+"dec10":"Donante de riñon"
 },
 {
 "id10":"Z525",
@@ -55520,7 +55520,7 @@ var DATA =
 },
 {
 "id10":"Z554",
-"dec10":"Problemas relacionados con la inadaptacion educacional y desavenencias con maestros y compa?eros"
+"dec10":"Problemas relacionados con la inadaptacion educacional y desavenencias con maestros y compañeros"
 },
 {
 "id10":"Z558",
@@ -55552,7 +55552,7 @@ var DATA =
 },
 {
 "id10":"Z564",
-"dec10":"Problemas relacionados con desavenencias con el jefe y los compa?eros de trabajo"
+"dec10":"Problemas relacionados con desavenencias con el jefe y los compañeros de trabajo"
 },
 {
 "id10":"Z565",
@@ -55752,15 +55752,15 @@ var DATA =
 },
 {
 "id10":"Z614",
-"dec10":"Problemas relacionados con el abuso sexual del ni?o por persona dentro del grupo de apoyo primario"
+"dec10":"Problemas relacionados con el abuso sexual del niño por persona dentro del grupo de apoyo primario"
 },
 {
 "id10":"Z615",
-"dec10":"Problemas relacionados con el abuso sexual del ni?o por persona ajena al grupo de apoyo primario"
+"dec10":"Problemas relacionados con el abuso sexual del niño por persona ajena al grupo de apoyo primario"
 },
 {
 "id10":"Z616",
-"dec10":"Problemas relacionados con abuso fisico del ni?o"
+"dec10":"Problemas relacionados con abuso fisico del niño"
 },
 {
 "id10":"Z617",
@@ -55792,15 +55792,15 @@ var DATA =
 },
 {
 "id10":"Z623",
-"dec10":"Problemas relacionados con hostilidad y reprobacion al ni?o"
+"dec10":"Problemas relacionados con hostilidad y reprobacion al niño"
 },
 {
 "id10":"Z624",
-"dec10":"Problemas relacionados con el abandono emocional del ni?o"
+"dec10":"Problemas relacionados con el abandono emocional del niño"
 },
 {
 "id10":"Z625",
-"dec10":"Otros problemas relacionados con negligencia en la crianza del ni?o"
+"dec10":"Otros problemas relacionados con negligencia en la crianza del niño"
 },
 {
 "id10":"Z626",
@@ -55808,11 +55808,11 @@ var DATA =
 },
 {
 "id10":"Z628",
-"dec10":"Otros problemas especificados y relacionados con la crianza del ni?o"
+"dec10":"Otros problemas especificados y relacionados con la crianza del niño"
 },
 {
 "id10":"Z629",
-"dec10":"Problema no especificado relacionado con la crianza del ni?o"
+"dec10":"Problema no especificado relacionado con la crianza del niño"
 },
 {
 "id10":"Z63",
@@ -56144,15 +56144,15 @@ var DATA =
 },
 {
 "id10":"Z761",
-"dec10":"Consulta para atencion y supervision de la salud del ni?o"
+"dec10":"Consulta para atencion y supervision de la salud del niño"
 },
 {
 "id10":"Z762",
-"dec10":"Consulta para atencion y supervision de la salud de otros ni?os o lactantes sanos"
+"dec10":"Consulta para atencion y supervision de la salud de otros niños o lactantes sanos"
 },
 {
 "id10":"Z763",
-"dec10":"Persona sana que acompa?a al enfermo"
+"dec10":"Persona sana que acompaña al enfermo"
 },
 {
 "id10":"Z764",
@@ -56328,7 +56328,7 @@ var DATA =
 },
 {
 "id10":"Z841",
-"dec10":"Historia familiar de trastornos del ri?on y del ureter"
+"dec10":"Historia familiar de trastornos del riñon y del ureter"
 },
 {
 "id10":"Z842",
@@ -56516,11 +56516,11 @@ var DATA =
 },
 {
 "id10":"Z891",
-"dec10":"Ausencia adquirida de mano y mu?eca"
+"dec10":"Ausencia adquirida de mano y muñeca"
 },
 {
 "id10":"Z892",
-"dec10":"Ausencia adquirida de miembro superior por arriba de la mu?eca"
+"dec10":"Ausencia adquirida de miembro superior por arriba de la muñeca"
 },
 {
 "id10":"Z893",
@@ -56576,7 +56576,7 @@ var DATA =
 },
 {
 "id10":"Z905",
-"dec10":"Ausencia adquirida de ri?on"
+"dec10":"Ausencia adquirida de riñon"
 },
 {
 "id10":"Z906",
@@ -56608,7 +56608,7 @@ var DATA =
 },
 {
 "id10":"Z913",
-"dec10":"Historia personal del ciclo sue?o"
+"dec10":"Historia personal del ciclo sueño"
 },
 {
 "id10":"Z914",
@@ -56708,7 +56708,7 @@ var DATA =
 },
 {
 "id10":"Z940",
-"dec10":"Trasplante de ri?on"
+"dec10":"Trasplante de riñon"
 },
 {
 "id10":"Z941",

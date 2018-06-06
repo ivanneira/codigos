@@ -82,8 +82,6 @@
 
         $("#buscar").click(function(){
 
-            $(".modal").modal('show');
-
             if( $("#busqueda").val().length < 2){
 
                 alert("por favor ingrese mas de 3 caracteres")
@@ -95,6 +93,9 @@
                     '   <th>Descripción</th>' +
                     '</tr>';
 
+                var flag = false;
+
+
                 for(var index in data){
 
                     if(
@@ -102,6 +103,7 @@
                         ||
                         data[index].dec10.search(new RegExp($('#busqueda').val(), "i")) != -1
                     ){
+                        flag = true;
 
                         htmlString +=
                             '<tr>' +
@@ -115,7 +117,14 @@
                     }
                 }
 
-                $(".modal").modal('hide');
+                if(!flag){
+                    htmlString += '<td colspan="2">No se encontraron resultados</td>';
+                }
+
+                $("#tbody")
+                    .empty()
+                    .append(htmlString);
+
             }
         });
 
