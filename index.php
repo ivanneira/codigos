@@ -82,7 +82,7 @@
 
         $("#buscar").click(function(){
 
-            if( $("#busqueda").val().length < 2){
+            if( $("#busqueda").val().length < 3){
 
                 alert("por favor ingrese mas de 3 caracteres")
             }else{
